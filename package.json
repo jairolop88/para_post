@@ -1,0 +1,19 @@
+{
+  "name": "para_post",
+  "version": "1.0.0",
+  "description": "mini proyectos para publicaciones y posteo en redes a modo de guias",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "guias",
+    "posteo",
+    "redes",
+    "paso",
+    "a",
+    "paso"
+  ],
+  "author": "jairolop88",
+  "license": "MIT"
+}

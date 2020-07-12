@@ -1,0 +1,8 @@
+.glassEffect-container {
+    margin: 0 auto;
+    width: 300px;
+}
+.glassEffect {
+    background-color: rgba(237, 237, 237, 0.3);
+    backdrop-filter: blur(10px);
+}
